@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T06:55:29+08:00</updated><entry><title>2024 Spring 課程W4</title><link href="./2024-Spring-40923150w4-blog.html" rel="alternate"></link><published>2024-03-17T11:00:00+08:00</published><updated>2024-06-19T06:55:29+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-17:./2024-Spring-40923150w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T07:26:31+08:00</updated><entry><title>2024 Spring 課程W3</title><link href="./2024-Spring-40923150w4-blog.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-06-19T07:26:31+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-12:./2024-Spring-40923150w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 
 
@@ -7,4 +7,5 @@
 &lt;p&gt;1.合作翻譯論文&lt;/p&gt;
 &lt;p&gt;2.使用codespaces維護倉儲內容&lt;/p&gt;
 &lt;p&gt;3.學習使用Github Actions編譯LaTeX得到分組pdf&lt;/p&gt;
-&lt;p&gt;4.在codespaces上傳自己在報告中負責的部分&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;4.在codespaces上傳自己在報告中負責的部分&lt;/p&gt;
+&lt;p&gt;網誌編寫&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
