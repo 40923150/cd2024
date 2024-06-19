@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T07:03:17+08:00</updated><entry><title>2024 Spring 課程W10</title><link href="./2024-Spring-40923150w10-blog.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-06-19T07:03:17+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-04-01:./2024-Spring-40923150w10-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+
+
+&lt;h1&gt;W10&lt;/h1&gt;
+&lt;p&gt;任務一 建立各班學員的倉儲、網站與分組連結
+&lt;a href="https://github.com/mdecd2024/2bstud-2bsite"&gt;2b倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;任務二 鋼球平衡台 PID 控制與模擬
+論文6篇
+論文一:
+根據《2D Ball Balancer Control using QUARC》文件中的第6章結果總結，以下是結論：&lt;/p&gt;
+&lt;p&gt;系統參數和設計控制器的結果：&lt;/p&gt;
+&lt;p&gt;預實驗模型參數的開環穩態增益為1.76 rad/(V.s)，時間常數為0.0285秒​​。
+實驗結果：&lt;/p&gt;
+&lt;p&gt;在實驗中，使用PD控制器的步進響應的穩態誤差為0 cm，穩定時間為2.31秒，超調量為5.48%​​。
+使用PID控制器時，步進響應的穩態誤差為-0.0152 cm，穩定時間為6.02秒​​。
+系統性能：&lt;/p&gt;
+&lt;p&gt;2D球平衡器的控制系統能夠有效地穩定球的位置，並滿足設定的規範，包括在步進和坡度響應中的穩態誤差和超調量。
+使用反風鳴控制的PID控制器在步進響應中的表現較好，能夠減少穩態誤差，但穩定時間較長。
+總體而言，通過精心設計的PD和PID控制器，2D球平衡系統能夠滿足實驗設計的動態響應規範，達到穩定球的位置控制目標​​。&lt;/p&gt;
+&lt;p&gt;論文二:
+本文提出了一種基於FPGA的PID控制器，用於實時控制平台上的球位置，實現了高精度的平衡控制​​。&lt;/p&gt;
+&lt;p&gt;結論
+本文提出了一種新的科學和實用方法，使用基於FPGA的PID控制器以並行計算的方式實現實時平衡平台上的球的位置。
+開發了在單個FPGA芯片上運行的雙並行PID控制器，能夠獨立控制一個對象的兩個參數，並確保控制對象的輪廓計算並行處理。
+經過自然模擬，證明了所設計控制器的高精度性能。這些控制器可用於實時控制具有多個控制參數的高速對象&lt;/p&gt;
+&lt;p&gt;論文三:
+《2D 球平衡控制系统》使用QUARC软件，通过PID控制器实现了在平衡板上稳定球的位置，取得了令人满意的控制效果。实验验证了系统的响应时间和稳态误差均符合预期 。&lt;/p&gt;
+&lt;p&gt;論文四:
+​這篇研究探討了如何利用線性控制方法來設計並構建一個能平衡球體的平台，通過理論模型和實際建構的數據進行比較和分析。
+結果顯示，雖然線性控制可以滿足部分要求，但在穩定性和性能方面仍存在一定的差異，這主要是由於模擬和實際建構中的誤差所致。
+未來的研究可以通過改進誤差預測和控制方法來提高系統性能 &lt;/p&gt;
+&lt;p&gt;論文五:&lt;/p&gt;
+&lt;p&gt;論文六:&lt;/p&gt;
+&lt;p&gt;任務三 零件繪製&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>
