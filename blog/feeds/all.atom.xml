@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T07:26:38+08:00</updated><entry><title>2024 Spring 課程W10</title><link href="./2024-Spring-40923150w10-blog.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-06-19T07:26:38+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-04-01:./2024-Spring-40923150w10-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T11:00:00+08:00</updated><entry><title>2024 Spring 課程W17</title><link href="./2024-Spring-40923150w17-blog.html" rel="alternate"></link><published>2024-06-19T11:00:00+08:00</published><updated>2024-06-19T07:38:32+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-06-19:./2024-Spring-40923150w17-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+
+
+&lt;h1&gt;W17&lt;/h1&gt;
+&lt;p&gt;1.w17 個人實習評量項目一完成後的個人倉儲提交連結 (即 https://github.com/個人_github_帳號/cd2024/commit/提交版次編號).&lt;/p&gt;
+&lt;p&gt;--完成&lt;/p&gt;
+&lt;p&gt;2.w17 個人實習評量項目二完成後的個人倉儲提交連結 (即 https://github.com/個人_github_帳號/cd2024/commit/提交版次編號).&lt;/p&gt;
+&lt;p&gt;--完成&lt;/p&gt;
+&lt;p&gt;3.w17 個人實習評量項目三完成後的個人倉儲提交連結 (即 https://github.com/個人_github_帳號/cd2024/commit/提交版次編號).&lt;/p&gt;
+&lt;p&gt;--失敗，輪子跟主體的自由度設定有問題。&lt;/p&gt;
+&lt;p&gt;自評表連結:https://docs.google.com/forms/d/e/1FAIpQLSdd4WdqZCfabonlM8jOzdpd3jQl_831C_7qXJBZuL8nOQ5NWA/viewform&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W10</title><link href="./2024-Spring-40923150w10-blog.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-06-19T07:26:38+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-04-01:./2024-Spring-40923150w10-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 
 
@@ -33,7 +44,7 @@
 未來的研究可以通過改進誤差預測和控制方法來提高系統性能 &lt;/p&gt;
 &lt;p&gt;論文五:&lt;/p&gt;
 &lt;p&gt;論文六:&lt;/p&gt;
-&lt;p&gt;任務三 零件繪製&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W10</title><link href="./2024-Spring-40923150w12-blog.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-06-19T07:24:37+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-04-01:./2024-Spring-40923150w12-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+&lt;p&gt;任務三 零件繪製&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W12</title><link href="./2024-Spring-40923150w12-blog.html" rel="alternate"></link><published>2024-04-01T11:00:00+08:00</published><updated>2024-06-19T07:32:20+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-04-01:./2024-Spring-40923150w12-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 
 
@@ -56,7 +67,7 @@
 &lt;h1&gt;W3&lt;/h1&gt;
 &lt;p&gt;1.建立分組倉儲&lt;/p&gt;
 &lt;p&gt;2.在倉儲新增個人子模組&lt;/p&gt;
-&lt;p&gt;3.學習使用codespaces維護分組網站&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W3</title><link href="./2024-Spring-40923150w4-blog.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-06-19T07:26:31+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-12:./2024-Spring-40923150w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+&lt;p&gt;3.學習使用codespaces維護分組網站&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./2024-Spring-40923150w4-blog.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-06-19T07:32:16+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-12:./2024-Spring-40923150w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 
 
